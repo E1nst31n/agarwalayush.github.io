@@ -5,7 +5,7 @@ locale: en_US
 description: 
 logo: 
 search: true
-# url: http://agarwalayush.github.io/agarwalayush.github.io
+# url: http://e1nst31n.github.io/e1nst31n.github.io
 
 # Jekyll configuration
 
@@ -35,16 +35,16 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 
-disqus: ayush
+disqus: atul_kumar_vaish
 # Site owner
 owner:
-  name: Ayush Agarwal
-  avatar: ayush.jpg
-  email: agarwalayush9@gmail.com
-  disqus-shortname: ayush
+  name: Atul Kumar Vaish
+  avatar: Screenshot_2.jpg
+  email: atulkv@iitk.ac.in
+  disqus-shortname: atul_kumar_vaish
   twitter: #username
-  facebook: #username
-  github: #username
+  facebook: akv489
+  github: E1nst31n
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
