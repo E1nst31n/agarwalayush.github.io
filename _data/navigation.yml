@@ -3,8 +3,14 @@
 - title: Home
   url: /
 
+- title: Playing Now
+  url: /now
+  
+- title: Library
+  url: /lib
+
 - title: Github
-  url: https://github.com/agarwalayush
+  url: https://github.com/e1nst31n
 
 # - title: Blog
 #   url: /blog/
